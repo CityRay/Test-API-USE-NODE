@@ -3,7 +3,6 @@
 - Node v4.1.2
 - request v2.71.0
 - node-schedule v1.1.0
--
 
 ## Install
 
